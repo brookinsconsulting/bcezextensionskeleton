@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<software>
+    <metadata>
+        <name>BC_PRODUCT_NAME</name>
+        <version>0.1.0</version>
+        <copyright>Copyright (C) 1999 - BC_COPYRIGHT_PRESENT_END_DATE Brookins Consulting. All rights reserved.</copyright>
+        <license>GNU General Public License</license>
+        <info_url>https://github.com/brookinsconsulting/BC_PRODUCT_EXTENSION_NAME</info_url>
+        <package_url>https://packagist.org/packages/brookinsconsulting/BC_PRODUCT_EXTENSION_NAME</package_url>
+    </metadata>
+</software>

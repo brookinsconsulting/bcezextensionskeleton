@@ -1,0 +1,24 @@
+{
+    "name": "brookinsconsulting/bcezextensionskeleton",
+    "description": "eZ Publish Legacy extension skeleton which provides a basic set of bash scripts to create the basic default documentation files with the new extension name within. Great for developers looking to speed up branding extension documentation.",
+    "type": "ezpublish-legacy-extension",
+    "keywords": [ "eZ Publish", "legacy", "extension", "branding", "skeleton", "script", "generator" ],
+    "homepage": "https://bitbucket.org/brookinsconsulting/bcezextensionskeleton",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name" : "Brookins Consulting",
+            "homepage": "http://brookinsconsulting.com",
+            "email": "info@brookinsconsulting.com",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.0.0",
+        "ezsystems/ezpublish-legacy-installer": "*"
+    },
+    "extra": {
+        "ezpublish-legacy-extension-name": "bcezextensionskeleton"
+    }
+}
